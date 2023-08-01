@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhisek Mohapatra ...!
 - 👀 I’m interested in learning New Things...!
-- 🌱 I’m currently Intern At Utkal Labs ...
-- 💞️ JavaScript|MongoDb|Express|ReactJs|NodeJS|MySQL
+- 🌱 I’m currently web application developer At Utkal Labs ...
+- 💞️ JavaScript|MongoDb|Express|ReactJs|NodeJS|MySQL|Postgress
 - 📫 abhisekMohapatra45@gmail.com
 
 <!---
